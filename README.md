@@ -1,2 +1,8 @@
 # ArcSight_CIF
-ArcSight Integration with CIF
+This repository provides the required resource from ArcSight side to Integrate the Collective Intelligence Framework (CIF) with ArcSight.
+
+Contents included:
+ - ArcSight Package for (Active Lists, Filters, and Rules)
+ - ArcSight Flex Connector for processing CIF Export (as csv)
+ - CIF queries to generate csv files
+
